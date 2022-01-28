@@ -3,7 +3,6 @@
 //
 
 #include <iostream>
-#include <day01/day1.h>
 
 using namespace std;
 
