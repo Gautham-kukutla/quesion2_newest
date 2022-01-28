@@ -2,7 +2,7 @@
 // Created by Ernst, Michael on 08.12.2020.
 //
 
-//#include <utilslib/StringHelper.h>
+#include "StringHelper.h"
 
 using namespace std;
 
