@@ -2,8 +2,8 @@
 // Created by Ernst, Michael on 11.12.2020.
 //
 
-//#include <gtest/gtest.h>
-//#include <day01/day1.h>
+#include "gtest.h"
+#include "day1.h"
 
 TEST(day1_test_1, debug) {
     // DUMMY Test
