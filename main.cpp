@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include "day1.h"
-#include "day1.cpp"
+
 
 using namespace std;
 
