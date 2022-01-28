@@ -2,7 +2,7 @@
 // Created by Ernst, Michael on 11.12.2020.
 //
 
-#include "gtest.h"
+//#include "gtest.h"
 #include "day1.h"
 
 TEST(day1_test_1, debug) {
